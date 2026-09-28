@@ -10,5 +10,4 @@ data/
 __pycache__/
 *.pyc
 
-# Ignore original quickstart if you only want to submit your solution
 quickstart.ipynb
