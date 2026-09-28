@@ -1,0 +1,14 @@
+# Data files
+data/
+*.csv
+*.csv.gz
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ignore original quickstart if you only want to submit your solution
+quickstart.ipynb
